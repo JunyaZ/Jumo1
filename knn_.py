@@ -1,5 +1,5 @@
 ##########################################################################  
-# Program :        Hw2_K Nearest Neighbors  (KNN)
+# Program :        _K Nearest Neighbors  (KNN)
 # Programmed By:   Junya Zhao
 # Input:
 #             trainData: training dataset
